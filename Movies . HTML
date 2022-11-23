@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Αγαπημένες Ταινίες</h2>
+
+<table>
+  <tr>
+    <th>Όνομα</th>
+    <th>Είδος</th>
+    <th>Χώρα</th>
+  </tr>
+  <tr>
+    <td>Fast and Furious</td>
+    <td>Δράσης</td>
+    <td>Αμερική</td>
+  </tr>
+  <tr>
+    <td>The Flash</td>
+    <td>Δράσης</td>
+    <td>Αμερική</td>
+  </tr>
+  <tr>
+    <td>Transformer</td>
+    <td>Δράση</td>
+    <td>Αμερικη-Αίγυπτο</td>
+  </tr>
+  <tr>
+    <td>Tokio Drift</td> 
+    <td>Δράσης</td>
+     <td>Τόκιο</td>
+  </tr>
+  </table>
+  </body>
+  </html>
+    
